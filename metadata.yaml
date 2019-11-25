@@ -1,5 +1,8 @@
 _repo: The-South-Country_60760
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60760-h/images/innercover_r.jpg
 creator:
   author:
     agent_name: Thomas, Edward
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6876
     wikipedia: http://en.wikipedia.org/wiki/Edward_Thomas_%28poet%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60760#The-South-Country
 gutenberg_issued: '2019-11-22'
 gutenberg_type: Text
 identifiers:
